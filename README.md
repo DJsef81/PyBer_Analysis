@@ -57,4 +57,10 @@ The Average Fare per Driver is highest in Rural cities, at $8.06, and lowest in 
 
 # Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Based on the findings of our Analysis, three business recommendations we could make for the CEO addressing any disparties among the city types include: 
+
+### * Find out what events are happening in the 3 city types during times of the month we see spikes in ridership. If these are annually recuring events, it can be assumed that there will again be increased usage during those times, meaning higher demand, which should  be reflected with higher fares. 
+
+### * Comparing the average fare per driver between Urban and Rural cities, Rural drivers make approximately 23% of the total fair, as opposed to Urban drivers who make only 3%. While Urban drivers do get vastly more riders in comparrison, I'm sure they would not be happy to know that they are making significantly less per ride compared to Rural drivers despite the average fare amounts only differing by $10.09 per ride repspectively. This disparity should be addressed to avoid problems with the morale of the Urban drivers. 
+
+### * In Urban cities, the beginning of January is one of the lowest for number of rides. That seems strange considering New Years Eve. Many people tend to be out late into the morning of January 1st, which theoretically would be ideal time for drivers. This doesn't seem to be the case however. Perhaps there is too much competition with other ridesharing services? I would recommend looking into the reasons why the ridership is so low for PyBer at this time, and possibly a marketing campaign to promote getting home safely for partygoing clients to try and capitalize. 
