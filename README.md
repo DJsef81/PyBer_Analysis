@@ -9,14 +9,20 @@ The analysis of the PyBer Data was performed in order to understand the differen
 
 # Results:
 
+Percentage of Total Fares by City Type
 ![](/analysis/Fig5.png) 
 
+
+Percentage of Total Rides by City Type
 ![](/analysis/Fig6.png)
 
+Percentage of Total Drivers by City Type
 ![](/analysis/Fig7)
 
+Total Fares by City Type
 ![](/analysis/Pyber_fare_summary.png)
 
+PyBer Summary
 ![](/analysis/Pyber_Summary_Df.png)
 
 
